@@ -1,0 +1,18 @@
+return {
+  -- "clangd",
+  -- "cmake",
+  "cssls",
+  "html",
+  -- "intelephense",
+  "marksman",
+  "jsonls",
+  "pyright",
+  "rust_analyzer",
+  "sqls",
+  "sumneko_lua",
+  "eslint",
+  "emmet_ls",
+  -- "texlab",
+  "tsserver",
+  "yamlls",
+}
